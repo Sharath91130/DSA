@@ -1,5 +1,4 @@
 package LoveBabar450.Strings;/*package whatever //do not write package name here */
-import java.io.*;
 import java.util.*;
 
 class GFG 
